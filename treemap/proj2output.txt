@@ -1,0 +1,70 @@
+Shampoo was added to Tom's cart
+Detergent was added to Tom's cart
+ CART OF : Tom
+--------------------
+Item         Price  
+--------------------
+Shampoo           8 
+Detergent        10 
+Toothpaste was added to Tom's cart
+Book was added to Sally's cart
+Laptop was added to Sally's cart
+Printer was added to Sally's cart
+ CART OF : Sally
+--------------------
+Item         Price  
+--------------------
+Book             15 
+Laptop          500 
+Printer          60 
+Headphones was added to Harry's cart
+Video Not found in Ben's cart
+Dress was added to Valerie's cart
+Jeans was added to Sally's cart
+Cereal was added to Jim's cart
+Milk was added to Jim's cart
+Shoes was added to Sally's cart
+Shirt was added to Jim's cart
+ CART OF : Jim
+--------------------
+Item         Price  
+--------------------
+Cereal            5 
+Milk              4 
+Shirt            30 
+Jim checked out. Total =$39
+Video was added to Ben's cart
+Guitar was added to Ben's cart
+Sally has already added Book to their cart
+Detergent was added to Sally's cart
+ CART OF : Sally
+--------------------
+Item         Price  
+--------------------
+Book             15 
+Laptop          500 
+Printer          60 
+Jeans            50 
+Shoes            70 
+Detergent        10 
+Sally checked out. Total =$705
+Vespa was added to Tom's cart
+ CART OF : Tom
+--------------------
+Item         Price  
+--------------------
+Shampoo           8 
+Detergent        10 
+Toothpaste        5 
+Vespa          1100 
+Tom checked out. Total =$1123
+Sofa was added to Gloria's cart
+Jeans was added to Gloria's cart
+Gloria checked out. Total =$950
+ CART OF : Ben
+--------------------
+Item         Price  
+--------------------
+Video            20 
+Guitar          280 
+Ben checked out. Total =$300
